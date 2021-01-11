@@ -20,4 +20,5 @@
 
 <br>
 ### Online Judge<br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pgy11)](https://solved.ac/algorithm_begginer)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pgy11})](https://solved.ac/{algorithm_beginner})
