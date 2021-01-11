@@ -22,4 +22,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=algorithm_beginner)](https://solved.ac/algorithm_beginner)
 
+<br>
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
