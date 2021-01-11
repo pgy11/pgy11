@@ -14,12 +14,12 @@
 
 <br>
 
-![pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true)
+[pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true)
 
 <br>
 
 <br>
-### Online Judge<br>
-![My state in Baekjoon online judge](https://solved.ac/profile/algorithm_beginner)
+### Online Judge
+[My state in Baekjoon online judge](https://solved.ac/profile/algorithm_beginner)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
