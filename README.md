@@ -12,15 +12,11 @@
 </p>
 
 
-[pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true)
+![pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true)
 
-
-
-
-<br>
 <br>
 
 ### Online judge
 - [My state in Baekjoon online judge](https://solved.ac/profile/algorithm_beginner)
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pgy11)](https://solved.ac/algorithm_begginer)
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
