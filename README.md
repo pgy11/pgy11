@@ -16,5 +16,5 @@
 <br>
 
 <br>
-### Online Judge
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/algorithm_beginner)
+### Online Judge<br>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pgy11)](https://solved.ac/algorithm_beginner)
