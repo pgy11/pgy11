@@ -17,9 +17,9 @@
 <br>
 
 ### Online judge
-- [My state in Baekjoon online judge](https://solved.ac/profile/algorithm_beginner)
+- [My state in Baekjoon online judge](https://www.acmicpc.net/user/algorithm_beginner)
 <br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pgy11)](https://solved.ac/algorithm_beginner)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=algorithm_beginner)](https://solved.ac/algorithm_beginner)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
