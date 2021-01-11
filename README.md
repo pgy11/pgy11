@@ -5,8 +5,8 @@
 -->
 <p>
   <em>
-    I'm a <b>newbie<b> developer.
-    I'm studying web programming.
+    I'm a <b>newbie<b> developer.<br>
+    I'm studying web programming.<br>
     I want to develop various applications that people can use easily.
   </em>
 </p>
