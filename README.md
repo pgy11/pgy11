@@ -20,4 +20,6 @@
 
 <br>
 ### Online Judge<br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
+[< My state in Baekjoon online judge >](https://solved.ac/profile/algorithm_beginner)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
