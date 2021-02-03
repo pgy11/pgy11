@@ -5,7 +5,7 @@
 -->
 <p>
   <em>
-    I'm going to a back-end developer who uses Java.<br/>
+    I'm going to be a back-end developer who uses Java.<br/>
   </em>
 </p>
 
