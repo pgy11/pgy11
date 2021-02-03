@@ -5,9 +5,7 @@
 -->
 <p>
   <em>
-    I'm a <b>newbie<b> developer.<br>
-    I'm studying web programming.<br>
-    I want to develop various applications that people can use easily.
+    I'm going to a back-end developer who uses Java.<br/>
   </em>
 </p>
 
@@ -17,6 +15,7 @@
 - CSS
 - JS
 - Java
+- Python
 <br/>
 <details markdown='1'>
   <summary>My github stats</summary>
