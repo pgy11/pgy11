@@ -11,10 +11,13 @@
   </em>
 </p>
 
-tech stack
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
-  
-  
+## Stack
+
+- HTML
+- CSS
+- JS
+- Java
+
 <details markdown='1'>
   <summary>My github stats</summary>
   
