@@ -17,7 +17,7 @@
 - CSS
 - JS
 - Java
-
+<br/>
 <details markdown='1'>
   <summary>My github stats</summary>
   
