@@ -9,11 +9,14 @@
   </em>
 </p>
 
-<h3>Stack</h3>
- - HTML
- - CSS 
- - JavaScript 
- - Java
+---
+
+### Stack
+
+* HTML 
+* CSS 
+* JavaScript 
+* Java
 
 <details markdown='1'>
  <summary>Most used languages</summary>
