@@ -22,7 +22,7 @@
 
 <details markdown='1'>
  <summary>Most used languages</summary>
- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact&hide='Jupyter Notebook')
+ ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact&hide=Jupyter-Notebook)
 </details>
 <br/>
 
