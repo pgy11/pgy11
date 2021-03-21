@@ -9,19 +9,15 @@
   </em>
 </p>
 
-<div align='center'>
-  <h3>Stack</h3>
-  <div>
-    - HTML <br/>
-    - CSS <br/>
-    - JavaScript <br/>
-    - Java <br/>
-  </div>
-</div>
+<h3>Stack</h3>
+ - HTML
+ - CSS 
+ - JavaScript 
+ - Java
 
 <details markdown='1'>
  <summary>Most used languages</summary>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details markdown='1'>
