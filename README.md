@@ -4,16 +4,17 @@
 **pgy11/pgy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <br/>
-<p>
+
+<h3>
   <em>
     I'm currently engaged in K-digital training and studying micro service application.<br/>
   </em>
-</p>
+</h3>
 
 ---
 <br/>
 
-## Stack
+# Stack
 <br/>
 
 <div>
@@ -33,13 +34,18 @@
 
 <br/>
 
+# Stat
+<br/>
+
 ![pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true&theme=algolia)
 
 <br/>
 
+# Solved.ac
+<br/>
 
-  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=algorithm_beginner)](https://solved.ac/algorithm_beginner)
 
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
