@@ -17,6 +17,7 @@
 * CSS 
 * JavaScript 
 * Java
+* Python
 <br/>
 
 <details markdown='1'>
