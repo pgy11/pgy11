@@ -17,6 +17,7 @@
     - JavaScript <br/>
     - Java <br/>
   </div>
+</div>
 
 <details markdown='1'>
  <summary>Most used languages</summary>
