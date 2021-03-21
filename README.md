@@ -7,7 +7,7 @@
 
 <h3>
   <em>
-    I'm currently engaged in K-digital training and studying devops, MSA.<br/>
+    I'm currently engaged in K-digital training and studying micro service application.<br/>
   </em>
 </h3>
 
@@ -27,13 +27,14 @@
 <img src='./icon/java.svg' width='50'/>
 <img src='./icon/database.svg' width='50'/>
 <img src='./icon/docker.svg' width='50'/>
+<img src='./icon/k8s.svg' width='50'/>
 </div>
 <br/>
 
 # Stat
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact&hide=jupyter%20notebook,)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
