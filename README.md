@@ -9,19 +9,25 @@
   </em>
 </p>
 
-## Stack
+<div align='center'>
+  ### Stack
+  - HTML
+  - CSS
+  - JavaScript
+  - Java
+</div>
 
-- HTML
-- CSS
-- JS
-- Java
-- Python
-<br/>
+<details markdown='1'>
+ <summary>Most used languages</summary>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 <details markdown='1'>
   <summary>My github stats</summary>
   
-  ![pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true)
+  ![pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true&theme=outrun)
 </details>
+
 <details markdown='1'>
   <summary>solved.ac</summary>
   
