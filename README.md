@@ -10,12 +10,13 @@
 </p>
 
 <div align='center'>
-  ### Stack
-  - HTML
-  - CSS
-  - JavaScript
-  - Java
-</div>
+  <h3>Stack</h3>
+  <div>
+    - HTML <br/>
+    - CSS <br/>
+    - JavaScript <br/>
+    - Java <br/>
+  </div>
 
 <details markdown='1'>
  <summary>Most used languages</summary>
