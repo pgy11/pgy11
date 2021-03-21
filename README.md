@@ -26,8 +26,8 @@
 <img src='./icon/django.svg' width='50'/>
 <img src='./icon/java.svg' width='50'/>
 <img src='./icon/database.svg' width='50'/>
-<img src='./icon/docker.svg' width='50'/>
-<img src='./icon/k8s.svg' width='50'/>
+<img src='./icon/docker.svg' width='60'/>
+<img src='./icon/k8s.svg' width='70'/>
 </div>
 <br/>
 
