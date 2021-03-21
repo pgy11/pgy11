@@ -22,7 +22,7 @@
 
 <details markdown='1'>
  <summary>Most used languages</summary>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact)](https://github.com/pgy11/pgy11)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 <br/>
 
