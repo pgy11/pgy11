@@ -30,11 +30,11 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact&hide=jupyter%20notebook,&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+# Stat
 <br/>
 
-# Stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact&hide=jupyter%20notebook,&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 ![pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true&theme=algolia)
