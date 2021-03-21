@@ -22,12 +22,14 @@
  <summary>Most used languages</summary>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+<br/>
 
 <details markdown='1'>
   <summary>My github stats</summary>
   
   ![pgy11's github stats](https://github-readme-stats.vercel.app/api?username=pgy11&show_icons=true&theme=outrun)
 </details>
+<br/>
 
 <details markdown='1'>
   <summary>solved.ac</summary>
