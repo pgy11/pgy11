@@ -7,7 +7,7 @@
 
 <h3>
   <em>
-    I'm currently engaged in K-digital training and studying micro service application.<br/>
+    I'm currently engaged in K-digital training and studying devops, MSA.<br/>
   </em>
 </h3>
 
