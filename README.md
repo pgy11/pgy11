@@ -18,16 +18,16 @@
 <br/>
 
 <div>
-<img src='./icon/html.svg' width='50'/>
-<img src='./icon/css.svg' width='50'/>
-<img src='./icon/javascript.svg' width='50'/>
-<img src='./icon/react.svg' width='50'/>
-<img src='./icon/python.svg' width='50'/>
-<img src='./icon/django.svg' width='50'/>
-<img src='./icon/java.svg' width='50'/>
-<img src='./icon/database.svg' width='50'/>
-<img src='./icon/docker.svg' width='60'/>
-<img src='./icon/k8s.svg' width='70'/>
+<img src='./icon/html.svg' width='50' title='HTML'/>
+<img src='./icon/css.svg' width='50' title='CSS' />
+<img src='./icon/javascript.svg' width='50' title='JavaScript' />
+<img src='./icon/react.svg' width='50' title='React' />
+<img src='./icon/python.svg' width='50' title='Python' />
+<img src='./icon/django.svg' width='50' title='Django' />
+<img src='./icon/java.svg' width='50' title='Java' />
+<img src='./icon/database.svg' width='50' title='DB' />
+<img src='./icon/docker.svg' width='60' title='Docker' />
+<img src='./icon/k8s.svg' width='70' title='K8s' />
 </div>
 <br/>
 
