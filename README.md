@@ -14,23 +14,6 @@
 ---
 <br/>
 
-# Stack
-<br/>
-
-<div>
-<img src='./icon/html.svg' width='50' title='HTML'/>
-<img src='./icon/css.svg' width='50' title='CSS' />
-<img src='./icon/javascript.svg' width='50' title='JavaScript' />
-<img src='./icon/react.svg' width='50' title='React' />
-<img src='./icon/python.svg' width='50' title='Python' />
-<img src='./icon/django.svg' width='50' title='Django' />
-<img src='./icon/java.svg' width='50' title='Java' />
-<img src='./icon/database.svg' width='50' title='DB' />
-<img src='./icon/docker.svg' width='60' title='Docker' />
-<img src='./icon/k8s.svg' width='70' title='K8s' />
-</div>
-<br/>
-
 # Stat
 <br/>
 
@@ -46,7 +29,3 @@
 <br/>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=algorithm_beginner)](https://solved.ac/algorithm_beginner)
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
