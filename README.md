@@ -1,5 +1,3 @@
-# Let's Git it!!
-
 <!--
 **pgy11/pgy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,7 +5,7 @@
 
 <h3>
   <em>
-    I'm currently engaged in K-digital training and studying devops and MSA.<br/>
+    I'm free.<br/>
   </em>
 </h3>
 
