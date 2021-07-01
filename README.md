@@ -1,16 +1,6 @@
 <!--
 **pgy11/pgy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<br/>
-
-<h3>
-  <em>
-    I'm free.<br/>
-  </em>
-</h3>
-
-<br/>
-
 # Stat
 <br/>
 
