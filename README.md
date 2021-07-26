@@ -1,6 +1,10 @@
 <!--
 **pgy11/pgy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+### 1. 즉시 한다.
+### 2. 반드시 해낸다.
+### 3. 될 때까지 한다.
+
 # Stat
 <br/>
 
