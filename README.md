@@ -13,7 +13,3 @@
 
 <br/>
 
-# Solved.ac
-<br/>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=algorithm_beginner)](https://solved.ac/algorithm_beginner)
