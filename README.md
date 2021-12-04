@@ -13,6 +13,9 @@
 
 <br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+# Solved.ac
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={algorithm_beginner})](https://solved.ac/{algorithm_beginner})
+
+<br/>
