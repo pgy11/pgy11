@@ -5,7 +5,7 @@
 # Stat
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&layout=compact&hide=jupyter%20notebook,)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgy11&theme=radical&layout=compact&hide=jupyter%20notebook,)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
