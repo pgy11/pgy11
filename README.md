@@ -1,16 +1,6 @@
 <!--
 **pgy11/pgy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Hello Developer.
-
-
-### Stack
-
-- Spring MVC, Webflux, Data JPA, Security
-- Docker
-- Kubernetes
-
-<br/>
 
 # Stat
 
