@@ -3,7 +3,6 @@
 -->
 # Hello Developer.
 
-<br/>
 
 ### Stack
 
